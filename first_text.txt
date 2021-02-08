@@ -1,1 +1,1 @@
-this is the first chsnge in git
+this is not the first chsnge in git but it is second commit

@@ -1,2 +1,4 @@
 *.log
 /dirs/
+static/dirs
+dada/
